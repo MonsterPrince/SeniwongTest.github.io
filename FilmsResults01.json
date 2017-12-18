@@ -35,7 +35,7 @@
         "release_date": { "type": "literal" , "value": "May 4, 2018 (Plan)" } ,
         "rating": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "0.0" } ,
         "plot": { "type": "literal" , "value": "-" } ,
-        "picture": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War#/media/File:AvengersInfinityWar.jpg" }
+        "picture": { "type": "literal" , "value": "https://upload.wikimedia.org/wikipedia/en/9/90/Avengers_Infinity_War.jpg" }
       } ,
       {
         "id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films18" } ,

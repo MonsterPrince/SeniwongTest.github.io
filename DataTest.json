@@ -1,0 +1,40 @@
+{
+  "head": {
+    "vars": [ "id" , "english_title" , "thai_title" , "genre" , "running_time" , "release_date" , "rating" , "plot" ]
+  }
+  ,
+  "results": {
+    "bindings": [
+      {
+        "id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films21" } ,
+        "english_title": { "type": "literal" , "value": "Captain Marvel" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" } ,
+        "genre": { "type": "literal" , "value": "Action, Adventure, Sci-Fi" } ,
+        "running_time": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "release_date": { "type": "literal" , "value": "March 8, 2019 (Plan)" } ,
+        "rating": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "0.0" } ,
+        "plot": { "type": "literal" , "value": "-" }
+      } ,
+      {
+        "id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films20" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man and the Wasp" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" } ,
+        "genre": { "type": "literal" , "value": "Action, Adventure, Sci-Fi" } ,
+        "running_time": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "release_date": { "type": "literal" , "value": "July 6, 2018 (Plan)" } ,
+        "rating": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "0.0" } ,
+        "plot": { "type": "literal" , "value": "-" }
+      } ,
+      {
+        "id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก" } ,
+        "genre": { "type": "literal" , "value": "Action, Adventure, Sci-Fi" } ,
+        "running_time": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "126" } ,
+        "release_date": { "type": "literal" , "value": "May 2, 2008" } ,
+        "rating": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "7.9" } ,
+        "plot": { "type": "literal" , "value": "โทนี่ สตาร์ค เป็นนักประดิษฐ์และนักอุตสาหกรรม มหาเศรษฐีพันล้านที่ถูกลักพาตัวไปขณะอยู่ต่างบ้านต่างเมือง แล้วก็ถูกบีบบังคับให้คิดค้นอาวุธที่มีประสิทธิภาพการทำลายล้างสูง แทนที่เขาจะใช้สติปัญญาอันปราดเปรื่อง และแนวคิดอัจฉริยะประดิษฐ์ตามคำสั่ง แต่ว่าโทนี่กลับสร้างชุดเกราะไฮเทค และหนีรอดการถูกจองจำมาได้ พอกลับมายังอเมริกาโทนี่ก็ต้องเผชิญหน้ากับอดีต และล่วงรู้แผนการชั่วร้ายที่มุ่งทำลายล้างโลก เขาจึงต้องสวมชุดเกราะทรงพลัง และปฏิญาณว่าจะพิทักษ์โลกใบนี้ในนาม ไอรอน แมน" }
+      }
+    ]
+  }
+}

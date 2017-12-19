@@ -1,0 +1,36 @@
+{
+  "head": {
+    "vars": [ "id" , "english_title" , "thai_title" , "season_number" , "episode_number" , "release_date" , "picture" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series03" } ,
+        "english_title": { "type": "literal" , "value": "Inhumans" } ,
+        "thai_title": { "type": "literal" , "value": "อินฮิวแมน" } ,
+        "season_number": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "episode_number": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" } ,
+        "release_date": { "type": "literal" , "value": "September 29, 2017" } ,
+        "picture": { "type": "literal" , "value": "http://script.today:81/app/webroot/scripttoday/wp-content/uploads/2017/04/inh.jpg" }
+      } ,
+      {
+        "id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series02" } ,
+        "english_title": { "type": "literal" , "value": "Agent Carter" } ,
+        "thai_title": { "type": "literal" , "value": "เอเจนต์คาร์เตอร์ สายลับสาวกู้โลก" } ,
+        "season_number": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "episode_number": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "18" } ,
+        "release_date": { "type": "literal" , "value": "January 6, 2015" } ,
+        "picture": { "type": "literal" , "value": "https://upload.wikimedia.org/wikipedia/en/e/e2/Agent_Carter_season_2_poster.jpg" }
+      } ,
+      {
+        "id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series01" } ,
+        "english_title": { "type": "literal" , "value": "Agents of S.H.I.E.L.D." } ,
+        "thai_title": { "type": "literal" , "value": "หน่วยปฏิบัติการสายลับชีลด์" } ,
+        "season_number": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "episode_number": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "88" } ,
+        "release_date": { "type": "literal" , "value": "September 24, 2013" } ,
+        "picture": { "type": "literal" , "value": "https://pmctvline2.files.wordpress.com/2017/09/agents-of-shield-poster.jpg?w=499&h=739" }
+      }
+    ]
+  }
+}

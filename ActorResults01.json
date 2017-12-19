@@ -1,0 +1,1489 @@
+{
+  "head": {
+    "vars": [ "actor_id" , "first_name" , "last_name" , "full_name" , "character_id" , "character_name" , "cinema_id" , "english_title" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor93" } ,
+        "first_name": { "type": "literal" , "value": "Iwan" } ,
+        "last_name": { "type": "literal" , "value": "Rheon" } ,
+        "full_name": { "type": "literal" , "value": "Iwan Rheon" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character118" } ,
+        "character_name": { "type": "literal" , "value": "Maximus" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series03" } ,
+        "english_title": { "type": "literal" , "value": "Inhumans" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor91" } ,
+        "first_name": { "type": "literal" , "value": "Eme" } ,
+        "last_name": { "type": "literal" , "value": "Ikwuakor" } ,
+        "full_name": { "type": "literal" , "value": "Eme Ikwuakor" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character116" } ,
+        "character_name": { "type": "literal" , "value": "Gorgon" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series03" } ,
+        "english_title": { "type": "literal" , "value": "Inhumans" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor90" } ,
+        "first_name": { "type": "literal" , "value": "Ken" } ,
+        "last_name": { "type": "literal" , "value": "Leung" } ,
+        "full_name": { "type": "literal" , "value": "Ken Leung" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character115" } ,
+        "character_name": { "type": "literal" , "value": "Karnak" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series03" } ,
+        "english_title": { "type": "literal" , "value": "Inhumans" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor88" } ,
+        "first_name": { "type": "literal" , "value": "Anson" } ,
+        "last_name": { "type": "literal" , "value": "Mount" } ,
+        "full_name": { "type": "literal" , "value": "Anson Mount" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character113" } ,
+        "character_name": { "type": "literal" , "value": "Black Bolt" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series03" } ,
+        "english_title": { "type": "literal" , "value": "Inhumans" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor86" } ,
+        "first_name": { "type": "literal" , "value": "Iain" } ,
+        "last_name": { "type": "literal" , "value": "De Caestecker" } ,
+        "full_name": { "type": "literal" , "value": "Iain De Caestecker" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character111" } ,
+        "character_name": { "type": "literal" , "value": "Leo Fitz" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series01" } ,
+        "english_title": { "type": "literal" , "value": "Agents of S.H.I.E.L.D." }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor84" } ,
+        "first_name": { "type": "literal" , "value": "Brett" } ,
+        "last_name": { "type": "literal" , "value": "Dalton" } ,
+        "full_name": { "type": "literal" , "value": "Brett Dalton" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character109" } ,
+        "character_name": { "type": "literal" , "value": "Grant Ward" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series01" } ,
+        "english_title": { "type": "literal" , "value": "Agents of S.H.I.E.L.D." }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor81" } ,
+        "first_name": { "type": "literal" , "value": "Josh" } ,
+        "last_name": { "type": "literal" , "value": "Brolin" } ,
+        "full_name": { "type": "literal" , "value": "Josh Brolin" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character104" } ,
+        "character_name": { "type": "literal" , "value": "Thanos" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor80" } ,
+        "first_name": { "type": "literal" , "value": "Martin" } ,
+        "last_name": { "type": "literal" , "value": "Freeman" } ,
+        "full_name": { "type": "literal" , "value": "Martin Freeman" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character103" } ,
+        "character_name": { "type": "literal" , "value": "Everett K. Ross" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films18" } ,
+        "english_title": { "type": "literal" , "value": "Black Panther" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor79" } ,
+        "first_name": { "type": "literal" , "value": "Michael" } ,
+        "last_name": { "type": "literal" , "value": "B. Jordan" } ,
+        "full_name": { "type": "literal" , "value": "Michael B. Jordan" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character102" } ,
+        "character_name": { "type": "literal" , "value": "Erik Killmonger" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films18" } ,
+        "english_title": { "type": "literal" , "value": "Black Panther" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor78" } ,
+        "first_name": { "type": "literal" , "value": "Chadwick" } ,
+        "last_name": { "type": "literal" , "value": "Boseman" } ,
+        "full_name": { "type": "literal" , "value": "Chadwick Boseman" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character100" } ,
+        "character_name": { "type": "literal" , "value": "T'Challa" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor78" } ,
+        "first_name": { "type": "literal" , "value": "Chadwick" } ,
+        "last_name": { "type": "literal" , "value": "Boseman" } ,
+        "full_name": { "type": "literal" , "value": "Chadwick Boseman" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character100" } ,
+        "character_name": { "type": "literal" , "value": "T'Challa" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films18" } ,
+        "english_title": { "type": "literal" , "value": "Black Panther" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor78" } ,
+        "first_name": { "type": "literal" , "value": "Chadwick" } ,
+        "last_name": { "type": "literal" , "value": "Boseman" } ,
+        "full_name": { "type": "literal" , "value": "Chadwick Boseman" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character100" } ,
+        "character_name": { "type": "literal" , "value": "T'Challa" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor77" } ,
+        "first_name": { "type": "literal" , "value": "Karl" } ,
+        "last_name": { "type": "literal" , "value": "Urban" } ,
+        "full_name": { "type": "literal" , "value": "Karl Urban" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character99" } ,
+        "character_name": { "type": "literal" , "value": "Skurge" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films17" } ,
+        "english_title": { "type": "literal" , "value": "Thor: Ragnarok" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor75" } ,
+        "first_name": { "type": "literal" , "value": "Jeff" } ,
+        "last_name": { "type": "literal" , "value": "Goldblum" } ,
+        "full_name": { "type": "literal" , "value": "Jeff Goldblum" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character97" } ,
+        "character_name": { "type": "literal" , "value": "Grandmaster" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films17" } ,
+        "english_title": { "type": "literal" , "value": "Thor: Ragnarok" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor70" } ,
+        "first_name": { "type": "literal" , "value": "Tom" } ,
+        "last_name": { "type": "literal" , "value": "Holland" } ,
+        "full_name": { "type": "literal" , "value": "Tom Holland" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character90" } ,
+        "character_name": { "type": "literal" , "value": "Peter Parker" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor70" } ,
+        "first_name": { "type": "literal" , "value": "Tom" } ,
+        "last_name": { "type": "literal" , "value": "Holland" } ,
+        "full_name": { "type": "literal" , "value": "Tom Holland" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character90" } ,
+        "character_name": { "type": "literal" , "value": "Peter Parker" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films16" } ,
+        "english_title": { "type": "literal" , "value": "Spider-Man: Homecoming" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor70" } ,
+        "first_name": { "type": "literal" , "value": "Tom" } ,
+        "last_name": { "type": "literal" , "value": "Holland" } ,
+        "full_name": { "type": "literal" , "value": "Tom Holland" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character90" } ,
+        "character_name": { "type": "literal" , "value": "Peter Parker" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor69" } ,
+        "first_name": { "type": "literal" , "value": "Kurt" } ,
+        "last_name": { "type": "literal" , "value": "Russell" } ,
+        "full_name": { "type": "literal" , "value": "Kurt Russell" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character89" } ,
+        "character_name": { "type": "literal" , "value": "Ego" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films15" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy Vol. 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor65" } ,
+        "first_name": { "type": "literal" , "value": "Mads" } ,
+        "last_name": { "type": "literal" , "value": "Mikkelsen" } ,
+        "full_name": { "type": "literal" , "value": "Mads Mikkelsen" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character84" } ,
+        "character_name": { "type": "literal" , "value": "Kaecilius" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films14" } ,
+        "english_title": { "type": "literal" , "value": "Doctor Strange" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor64" } ,
+        "first_name": { "type": "literal" , "value": "Benedict" } ,
+        "last_name": { "type": "literal" , "value": "Wong" } ,
+        "full_name": { "type": "literal" , "value": "Benedict Wong" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character83" } ,
+        "character_name": { "type": "literal" , "value": "Wong" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films14" } ,
+        "english_title": { "type": "literal" , "value": "Doctor Strange" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor64" } ,
+        "first_name": { "type": "literal" , "value": "Benedict" } ,
+        "last_name": { "type": "literal" , "value": "Wong" } ,
+        "full_name": { "type": "literal" , "value": "Benedict Wong" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character83" } ,
+        "character_name": { "type": "literal" , "value": "Wong" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor62" } ,
+        "first_name": { "type": "literal" , "value": "Chiwetel" } ,
+        "last_name": { "type": "literal" , "value": "Ejiofor" } ,
+        "full_name": { "type": "literal" , "value": "Chiwetel Ejiofor" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character81" } ,
+        "character_name": { "type": "literal" , "value": "Karl Mordo" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films14" } ,
+        "english_title": { "type": "literal" , "value": "Doctor Strange" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor61" } ,
+        "first_name": { "type": "literal" , "value": "Benedict" } ,
+        "last_name": { "type": "literal" , "value": "Cumberbatch" } ,
+        "full_name": { "type": "literal" , "value": "Benedict Cumberbatch" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character80" } ,
+        "character_name": { "type": "literal" , "value": "Stephen Strange" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films14" } ,
+        "english_title": { "type": "literal" , "value": "Doctor Strange" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor61" } ,
+        "first_name": { "type": "literal" , "value": "Benedict" } ,
+        "last_name": { "type": "literal" , "value": "Cumberbatch" } ,
+        "full_name": { "type": "literal" , "value": "Benedict Cumberbatch" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character80" } ,
+        "character_name": { "type": "literal" , "value": "Stephen Strange" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor60" } ,
+        "first_name": { "type": "literal" , "value": "Daniel" } ,
+        "last_name": { "type": "literal" , "value": "Brühl" } ,
+        "full_name": { "type": "literal" , "value": "Daniel Brühl" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character79" } ,
+        "character_name": { "type": "literal" , "value": "Helmut Zemo" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor59" } ,
+        "first_name": { "type": "literal" , "value": "Michael" } ,
+        "last_name": { "type": "literal" , "value": "Douglas" } ,
+        "full_name": { "type": "literal" , "value": "Michael Douglas" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character77" } ,
+        "character_name": { "type": "literal" , "value": "Hank Pym" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films12" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor59" } ,
+        "first_name": { "type": "literal" , "value": "Michael" } ,
+        "last_name": { "type": "literal" , "value": "Douglas" } ,
+        "full_name": { "type": "literal" , "value": "Michael Douglas" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character77" } ,
+        "character_name": { "type": "literal" , "value": "Hank Pym" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films20" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man and the Wasp" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor58" } ,
+        "first_name": { "type": "literal" , "value": "Michael" } ,
+        "last_name": { "type": "literal" , "value": "Peña" } ,
+        "full_name": { "type": "literal" , "value": "Michael Peña" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character76" } ,
+        "character_name": { "type": "literal" , "value": "Luis" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films12" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor58" } ,
+        "first_name": { "type": "literal" , "value": "Michael" } ,
+        "last_name": { "type": "literal" , "value": "Peña" } ,
+        "full_name": { "type": "literal" , "value": "Michael Peña" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character76" } ,
+        "character_name": { "type": "literal" , "value": "Luis" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films20" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man and the Wasp" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor57" } ,
+        "first_name": { "type": "literal" , "value": "Corey" } ,
+        "last_name": { "type": "literal" , "value": "Stoll" } ,
+        "full_name": { "type": "literal" , "value": "Corey Stoll" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character74" } ,
+        "character_name": { "type": "literal" , "value": "Darren Cross" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films12" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor55" } ,
+        "first_name": { "type": "literal" , "value": "Paul" } ,
+        "last_name": { "type": "literal" , "value": "Rudd" } ,
+        "full_name": { "type": "literal" , "value": "Paul Rudd" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character71" } ,
+        "character_name": { "type": "literal" , "value": "Scott Lang" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films12" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor55" } ,
+        "first_name": { "type": "literal" , "value": "Paul" } ,
+        "last_name": { "type": "literal" , "value": "Rudd" } ,
+        "full_name": { "type": "literal" , "value": "Paul Rudd" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character71" } ,
+        "character_name": { "type": "literal" , "value": "Scott Lang" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor55" } ,
+        "first_name": { "type": "literal" , "value": "Paul" } ,
+        "last_name": { "type": "literal" , "value": "Rudd" } ,
+        "full_name": { "type": "literal" , "value": "Paul Rudd" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character71" } ,
+        "character_name": { "type": "literal" , "value": "Scott Lang" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor55" } ,
+        "first_name": { "type": "literal" , "value": "Paul" } ,
+        "last_name": { "type": "literal" , "value": "Rudd" } ,
+        "full_name": { "type": "literal" , "value": "Paul Rudd" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character71" } ,
+        "character_name": { "type": "literal" , "value": "Scott Lang" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films20" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man and the Wasp" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor54" } ,
+        "first_name": { "type": "literal" , "value": "James" } ,
+        "last_name": { "type": "literal" , "value": "Spader" } ,
+        "full_name": { "type": "literal" , "value": "James Spader" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character70" } ,
+        "character_name": { "type": "literal" , "value": "Ultron" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor52" } ,
+        "first_name": { "type": "literal" , "value": "Aaron" } ,
+        "last_name": { "type": "literal" , "value": "Taylor Johnson" } ,
+        "full_name": { "type": "literal" , "value": "Aaron Taylor Johnson" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character65" } ,
+        "character_name": { "type": "literal" , "value": "Pietro Maximoff" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor51" } ,
+        "first_name": { "type": "literal" , "value": "Benicio" } ,
+        "last_name": { "type": "literal" , "value": "del Toro" } ,
+        "full_name": { "type": "literal" , "value": "Benicio del Toro" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character62" } ,
+        "character_name": { "type": "literal" , "value": "Taneleer Tivan" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films10" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor49" } ,
+        "first_name": { "type": "literal" , "value": "Michael" } ,
+        "last_name": { "type": "literal" , "value": "Rooker" } ,
+        "full_name": { "type": "literal" , "value": "Michael Rooker" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character60" } ,
+        "character_name": { "type": "literal" , "value": "Yondu Udonta" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films10" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor49" } ,
+        "first_name": { "type": "literal" , "value": "Michael" } ,
+        "last_name": { "type": "literal" , "value": "Rooker" } ,
+        "full_name": { "type": "literal" , "value": "Michael Rooker" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character60" } ,
+        "character_name": { "type": "literal" , "value": "Yondu Udonta" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films15" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy Vol. 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor48" } ,
+        "first_name": { "type": "literal" , "value": "Lee Pace" } ,
+        "last_name": { "type": "literal" , "value": "Pace" } ,
+        "full_name": { "type": "literal" , "value": "Lee Pace Pace" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character59" } ,
+        "character_name": { "type": "literal" , "value": "Ronan the Accuser" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films10" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor47" } ,
+        "first_name": { "type": "literal" , "value": "Vin" } ,
+        "last_name": { "type": "literal" , "value": "Diesel" } ,
+        "full_name": { "type": "literal" , "value": "Vin Diesel" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character58" } ,
+        "character_name": { "type": "literal" , "value": "Groot" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films10" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor47" } ,
+        "first_name": { "type": "literal" , "value": "Vin" } ,
+        "last_name": { "type": "literal" , "value": "Diesel" } ,
+        "full_name": { "type": "literal" , "value": "Vin Diesel" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character58" } ,
+        "character_name": { "type": "literal" , "value": "Groot" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor46" } ,
+        "first_name": { "type": "literal" , "value": "Bradley" } ,
+        "last_name": { "type": "literal" , "value": "Cooper" } ,
+        "full_name": { "type": "literal" , "value": "Bradley Cooper" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character57" } ,
+        "character_name": { "type": "literal" , "value": "Rocket" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films10" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor46" } ,
+        "first_name": { "type": "literal" , "value": "Bradley" } ,
+        "last_name": { "type": "literal" , "value": "Cooper" } ,
+        "full_name": { "type": "literal" , "value": "Bradley Cooper" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character57" } ,
+        "character_name": { "type": "literal" , "value": "Rocket" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films15" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy Vol. 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor46" } ,
+        "first_name": { "type": "literal" , "value": "Bradley" } ,
+        "last_name": { "type": "literal" , "value": "Cooper" } ,
+        "full_name": { "type": "literal" , "value": "Bradley Cooper" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character57" } ,
+        "character_name": { "type": "literal" , "value": "Rocket" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor45" } ,
+        "first_name": { "type": "literal" , "value": "Dave" } ,
+        "last_name": { "type": "literal" , "value": "Bautista" } ,
+        "full_name": { "type": "literal" , "value": "Dave Bautista" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character56" } ,
+        "character_name": { "type": "literal" , "value": "Drax the Destroyer" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films10" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor45" } ,
+        "first_name": { "type": "literal" , "value": "Dave" } ,
+        "last_name": { "type": "literal" , "value": "Bautista" } ,
+        "full_name": { "type": "literal" , "value": "Dave Bautista" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character56" } ,
+        "character_name": { "type": "literal" , "value": "Drax the Destroyer" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films15" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy Vol. 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor45" } ,
+        "first_name": { "type": "literal" , "value": "Dave" } ,
+        "last_name": { "type": "literal" , "value": "Bautista" } ,
+        "full_name": { "type": "literal" , "value": "Dave Bautista" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character56" } ,
+        "character_name": { "type": "literal" , "value": "Drax the Destroyer" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor43" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Pratt" } ,
+        "full_name": { "type": "literal" , "value": "Chris Pratt" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character53" } ,
+        "character_name": { "type": "literal" , "value": "Peter Quill" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films10" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor43" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Pratt" } ,
+        "full_name": { "type": "literal" , "value": "Chris Pratt" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character53" } ,
+        "character_name": { "type": "literal" , "value": "Peter Quill" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films15" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy Vol. 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor43" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Pratt" } ,
+        "full_name": { "type": "literal" , "value": "Chris Pratt" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character53" } ,
+        "character_name": { "type": "literal" , "value": "Peter Quill" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor42" } ,
+        "first_name": { "type": "literal" , "value": "Robert" } ,
+        "last_name": { "type": "literal" , "value": "Redford" } ,
+        "full_name": { "type": "literal" , "value": "Robert Redford" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character52" } ,
+        "character_name": { "type": "literal" , "value": "Alexander Pierce" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor40" } ,
+        "first_name": { "type": "literal" , "value": "Frank" } ,
+        "last_name": { "type": "literal" , "value": "Grillo" } ,
+        "full_name": { "type": "literal" , "value": "Frank Grillo" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character49" } ,
+        "character_name": { "type": "literal" , "value": "Brock Rumlow" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor40" } ,
+        "first_name": { "type": "literal" , "value": "Frank" } ,
+        "last_name": { "type": "literal" , "value": "Grillo" } ,
+        "full_name": { "type": "literal" , "value": "Frank Grillo" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character49" } ,
+        "character_name": { "type": "literal" , "value": "Brock Rumlow" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor39" } ,
+        "first_name": { "type": "literal" , "value": "Anthony" } ,
+        "last_name": { "type": "literal" , "value": "Mackie" } ,
+        "full_name": { "type": "literal" , "value": "Anthony Mackie" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character47" } ,
+        "character_name": { "type": "literal" , "value": "Sam Wilson" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor39" } ,
+        "first_name": { "type": "literal" , "value": "Anthony" } ,
+        "last_name": { "type": "literal" , "value": "Mackie" } ,
+        "full_name": { "type": "literal" , "value": "Anthony Mackie" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character47" } ,
+        "character_name": { "type": "literal" , "value": "Sam Wilson" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor39" } ,
+        "first_name": { "type": "literal" , "value": "Anthony" } ,
+        "last_name": { "type": "literal" , "value": "Mackie" } ,
+        "full_name": { "type": "literal" , "value": "Anthony Mackie" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character47" } ,
+        "character_name": { "type": "literal" , "value": "Sam Wilson" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films12" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor39" } ,
+        "first_name": { "type": "literal" , "value": "Anthony" } ,
+        "last_name": { "type": "literal" , "value": "Mackie" } ,
+        "full_name": { "type": "literal" , "value": "Anthony Mackie" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character47" } ,
+        "character_name": { "type": "literal" , "value": "Sam Wilson" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor39" } ,
+        "first_name": { "type": "literal" , "value": "Anthony" } ,
+        "last_name": { "type": "literal" , "value": "Mackie" } ,
+        "full_name": { "type": "literal" , "value": "Anthony Mackie" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character47" } ,
+        "character_name": { "type": "literal" , "value": "Sam Wilson" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor38" } ,
+        "first_name": { "type": "literal" , "value": "Christopher" } ,
+        "last_name": { "type": "literal" , "value": "Eccleston" } ,
+        "full_name": { "type": "literal" , "value": "Christopher Eccleston" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character46" } ,
+        "character_name": { "type": "literal" , "value": "Malekith" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films08" } ,
+        "english_title": { "type": "literal" , "value": "Thor: The Dark World" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor37" } ,
+        "first_name": { "type": "literal" , "value": "Paul" } ,
+        "last_name": { "type": "literal" , "value": "Bettany" } ,
+        "full_name": { "type": "literal" , "value": "Paul Bettany" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character45" } ,
+        "character_name": { "type": "literal" , "value": "J.A.R.V.I.S." } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor37" } ,
+        "first_name": { "type": "literal" , "value": "Paul" } ,
+        "last_name": { "type": "literal" , "value": "Bettany" } ,
+        "full_name": { "type": "literal" , "value": "Paul Bettany" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character45" } ,
+        "character_name": { "type": "literal" , "value": "J.A.R.V.I.S." } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor37" } ,
+        "first_name": { "type": "literal" , "value": "Paul" } ,
+        "last_name": { "type": "literal" , "value": "Bettany" } ,
+        "full_name": { "type": "literal" , "value": "Paul Bettany" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character45" } ,
+        "character_name": { "type": "literal" , "value": "J.A.R.V.I.S." } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films07" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 3" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor35" } ,
+        "first_name": { "type": "literal" , "value": "Guy" } ,
+        "last_name": { "type": "literal" , "value": "Pearce" } ,
+        "full_name": { "type": "literal" , "value": "Guy Pearce" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character43" } ,
+        "character_name": { "type": "literal" , "value": "Aldrich Killian" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films07" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 3" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor33" } ,
+        "first_name": { "type": "literal" , "value": "Clark" } ,
+        "last_name": { "type": "literal" , "value": "Gregg" } ,
+        "full_name": { "type": "literal" , "value": "Clark Gregg" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character40" } ,
+        "character_name": { "type": "literal" , "value": "Phil Coulson" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor33" } ,
+        "first_name": { "type": "literal" , "value": "Clark" } ,
+        "last_name": { "type": "literal" , "value": "Gregg" } ,
+        "full_name": { "type": "literal" , "value": "Clark Gregg" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character40" } ,
+        "character_name": { "type": "literal" , "value": "Phil Coulson" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series01" } ,
+        "english_title": { "type": "literal" , "value": "Agents of S.H.I.E.L.D." }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor32" } ,
+        "first_name": { "type": "literal" , "value": "Jeremy" } ,
+        "last_name": { "type": "literal" , "value": "Renner" } ,
+        "full_name": { "type": "literal" , "value": "Jeremy Renner" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character38" } ,
+        "character_name": { "type": "literal" , "value": "Clint Barton" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor32" } ,
+        "first_name": { "type": "literal" , "value": "Jeremy" } ,
+        "last_name": { "type": "literal" , "value": "Renner" } ,
+        "full_name": { "type": "literal" , "value": "Jeremy Renner" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character38" } ,
+        "character_name": { "type": "literal" , "value": "Clint Barton" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor32" } ,
+        "first_name": { "type": "literal" , "value": "Jeremy" } ,
+        "last_name": { "type": "literal" , "value": "Renner" } ,
+        "full_name": { "type": "literal" , "value": "Jeremy Renner" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character38" } ,
+        "character_name": { "type": "literal" , "value": "Clint Barton" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor32" } ,
+        "first_name": { "type": "literal" , "value": "Jeremy" } ,
+        "last_name": { "type": "literal" , "value": "Renner" } ,
+        "full_name": { "type": "literal" , "value": "Jeremy Renner" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character38" } ,
+        "character_name": { "type": "literal" , "value": "Clint Barton" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor31" } ,
+        "first_name": { "type": "literal" , "value": "Mark" } ,
+        "last_name": { "type": "literal" , "value": "Ruffalo" } ,
+        "full_name": { "type": "literal" , "value": "Mark Ruffalo" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character07" } ,
+        "character_name": { "type": "literal" , "value": "Bruce Banner" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films02" } ,
+        "english_title": { "type": "literal" , "value": "The Incredible Hulk" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor31" } ,
+        "first_name": { "type": "literal" , "value": "Mark" } ,
+        "last_name": { "type": "literal" , "value": "Ruffalo" } ,
+        "full_name": { "type": "literal" , "value": "Mark Ruffalo" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character07" } ,
+        "character_name": { "type": "literal" , "value": "Bruce Banner" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor31" } ,
+        "first_name": { "type": "literal" , "value": "Mark" } ,
+        "last_name": { "type": "literal" , "value": "Ruffalo" } ,
+        "full_name": { "type": "literal" , "value": "Mark Ruffalo" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character07" } ,
+        "character_name": { "type": "literal" , "value": "Bruce Banner" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor31" } ,
+        "first_name": { "type": "literal" , "value": "Mark" } ,
+        "last_name": { "type": "literal" , "value": "Ruffalo" } ,
+        "full_name": { "type": "literal" , "value": "Mark Ruffalo" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character07" } ,
+        "character_name": { "type": "literal" , "value": "Bruce Banner" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films17" } ,
+        "english_title": { "type": "literal" , "value": "Thor: Ragnarok" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor31" } ,
+        "first_name": { "type": "literal" , "value": "Mark" } ,
+        "last_name": { "type": "literal" , "value": "Ruffalo" } ,
+        "full_name": { "type": "literal" , "value": "Mark Ruffalo" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character07" } ,
+        "character_name": { "type": "literal" , "value": "Bruce Banner" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor30" } ,
+        "first_name": { "type": "literal" , "value": "Dominic" } ,
+        "last_name": { "type": "literal" , "value": "Cooper" } ,
+        "full_name": { "type": "literal" , "value": "Dominic Cooper" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character37" } ,
+        "character_name": { "type": "literal" , "value": "Howard Stark" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films05" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The First Avenger" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor29" } ,
+        "first_name": { "type": "literal" , "value": "Sebastian" } ,
+        "last_name": { "type": "literal" , "value": "Stan" } ,
+        "full_name": { "type": "literal" , "value": "Sebastian Stan" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character35" } ,
+        "character_name": { "type": "literal" , "value": "Bucky Barnes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films05" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The First Avenger" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor29" } ,
+        "first_name": { "type": "literal" , "value": "Sebastian" } ,
+        "last_name": { "type": "literal" , "value": "Stan" } ,
+        "full_name": { "type": "literal" , "value": "Sebastian Stan" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character35" } ,
+        "character_name": { "type": "literal" , "value": "Bucky Barnes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor29" } ,
+        "first_name": { "type": "literal" , "value": "Sebastian" } ,
+        "last_name": { "type": "literal" , "value": "Stan" } ,
+        "full_name": { "type": "literal" , "value": "Sebastian Stan" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character35" } ,
+        "character_name": { "type": "literal" , "value": "Bucky Barnes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor29" } ,
+        "first_name": { "type": "literal" , "value": "Sebastian" } ,
+        "last_name": { "type": "literal" , "value": "Stan" } ,
+        "full_name": { "type": "literal" , "value": "Sebastian Stan" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character35" } ,
+        "character_name": { "type": "literal" , "value": "Bucky Barnes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor27" } ,
+        "first_name": { "type": "literal" , "value": "Hugo" } ,
+        "last_name": { "type": "literal" , "value": "Weaving" } ,
+        "full_name": { "type": "literal" , "value": "Hugo Weaving" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character32" } ,
+        "character_name": { "type": "literal" , "value": "Johann Schmidt" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films05" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The First Avenger" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor26" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Evans" } ,
+        "full_name": { "type": "literal" , "value": "Chris Evans" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character30" } ,
+        "character_name": { "type": "literal" , "value": "Steve Rogers" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films05" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The First Avenger" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor26" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Evans" } ,
+        "full_name": { "type": "literal" , "value": "Chris Evans" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character30" } ,
+        "character_name": { "type": "literal" , "value": "Steve Rogers" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor26" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Evans" } ,
+        "full_name": { "type": "literal" , "value": "Chris Evans" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character30" } ,
+        "character_name": { "type": "literal" , "value": "Steve Rogers" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor26" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Evans" } ,
+        "full_name": { "type": "literal" , "value": "Chris Evans" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character30" } ,
+        "character_name": { "type": "literal" , "value": "Steve Rogers" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor26" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Evans" } ,
+        "full_name": { "type": "literal" , "value": "Chris Evans" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character30" } ,
+        "character_name": { "type": "literal" , "value": "Steve Rogers" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor26" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Evans" } ,
+        "full_name": { "type": "literal" , "value": "Chris Evans" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character30" } ,
+        "character_name": { "type": "literal" , "value": "Steve Rogers" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor24" } ,
+        "first_name": { "type": "literal" , "value": "Anthony" } ,
+        "last_name": { "type": "literal" , "value": "Hopkins" } ,
+        "full_name": { "type": "literal" , "value": "Anthony Hopkins" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character28" } ,
+        "character_name": { "type": "literal" , "value": "Odin" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films04" } ,
+        "english_title": { "type": "literal" , "value": "Thor" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor24" } ,
+        "first_name": { "type": "literal" , "value": "Anthony" } ,
+        "last_name": { "type": "literal" , "value": "Hopkins" } ,
+        "full_name": { "type": "literal" , "value": "Anthony Hopkins" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character28" } ,
+        "character_name": { "type": "literal" , "value": "Odin" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films08" } ,
+        "english_title": { "type": "literal" , "value": "Thor: The Dark World" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor24" } ,
+        "first_name": { "type": "literal" , "value": "Anthony" } ,
+        "last_name": { "type": "literal" , "value": "Hopkins" } ,
+        "full_name": { "type": "literal" , "value": "Anthony Hopkins" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character28" } ,
+        "character_name": { "type": "literal" , "value": "Odin" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films17" } ,
+        "english_title": { "type": "literal" , "value": "Thor: Ragnarok" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor22" } ,
+        "first_name": { "type": "literal" , "value": "Idris" } ,
+        "last_name": { "type": "literal" , "value": "Elba" } ,
+        "full_name": { "type": "literal" , "value": "Idris Elba" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character26" } ,
+        "character_name": { "type": "literal" , "value": "Heimdall" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films04" } ,
+        "english_title": { "type": "literal" , "value": "Thor" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor22" } ,
+        "first_name": { "type": "literal" , "value": "Idris" } ,
+        "last_name": { "type": "literal" , "value": "Elba" } ,
+        "full_name": { "type": "literal" , "value": "Idris Elba" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character26" } ,
+        "character_name": { "type": "literal" , "value": "Heimdall" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films08" } ,
+        "english_title": { "type": "literal" , "value": "Thor: The Dark World" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor22" } ,
+        "first_name": { "type": "literal" , "value": "Idris" } ,
+        "last_name": { "type": "literal" , "value": "Elba" } ,
+        "full_name": { "type": "literal" , "value": "Idris Elba" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character26" } ,
+        "character_name": { "type": "literal" , "value": "Heimdall" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor22" } ,
+        "first_name": { "type": "literal" , "value": "Idris" } ,
+        "last_name": { "type": "literal" , "value": "Elba" } ,
+        "full_name": { "type": "literal" , "value": "Idris Elba" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character26" } ,
+        "character_name": { "type": "literal" , "value": "Heimdall" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films17" } ,
+        "english_title": { "type": "literal" , "value": "Thor: Ragnarok" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor21" } ,
+        "first_name": { "type": "literal" , "value": "Colm" } ,
+        "last_name": { "type": "literal" , "value": "Feore" } ,
+        "full_name": { "type": "literal" , "value": "Colm Feore" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character25" } ,
+        "character_name": { "type": "literal" , "value": "Laufey" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films04" } ,
+        "english_title": { "type": "literal" , "value": "Thor" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor20" } ,
+        "first_name": { "type": "literal" , "value": "Stellan" } ,
+        "last_name": { "type": "literal" , "value": "Skarsgård" } ,
+        "full_name": { "type": "literal" , "value": "Stellan Skarsgård" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character24" } ,
+        "character_name": { "type": "literal" , "value": "Erik Selvig" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films04" } ,
+        "english_title": { "type": "literal" , "value": "Thor" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor20" } ,
+        "first_name": { "type": "literal" , "value": "Stellan" } ,
+        "last_name": { "type": "literal" , "value": "Skarsgård" } ,
+        "full_name": { "type": "literal" , "value": "Stellan Skarsgård" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character24" } ,
+        "character_name": { "type": "literal" , "value": "Erik Selvig" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor20" } ,
+        "first_name": { "type": "literal" , "value": "Stellan" } ,
+        "last_name": { "type": "literal" , "value": "Skarsgård" } ,
+        "full_name": { "type": "literal" , "value": "Stellan Skarsgård" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character24" } ,
+        "character_name": { "type": "literal" , "value": "Erik Selvig" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films08" } ,
+        "english_title": { "type": "literal" , "value": "Thor: The Dark World" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor20" } ,
+        "first_name": { "type": "literal" , "value": "Stellan" } ,
+        "last_name": { "type": "literal" , "value": "Skarsgård" } ,
+        "full_name": { "type": "literal" , "value": "Stellan Skarsgård" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character24" } ,
+        "character_name": { "type": "literal" , "value": "Erik Selvig" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor19" } ,
+        "first_name": { "type": "literal" , "value": "Tom" } ,
+        "last_name": { "type": "literal" , "value": "Hiddleston" } ,
+        "full_name": { "type": "literal" , "value": "Tom Hiddleston" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character23" } ,
+        "character_name": { "type": "literal" , "value": "Loki" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films04" } ,
+        "english_title": { "type": "literal" , "value": "Thor" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor19" } ,
+        "first_name": { "type": "literal" , "value": "Tom" } ,
+        "last_name": { "type": "literal" , "value": "Hiddleston" } ,
+        "full_name": { "type": "literal" , "value": "Tom Hiddleston" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character23" } ,
+        "character_name": { "type": "literal" , "value": "Loki" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor19" } ,
+        "first_name": { "type": "literal" , "value": "Tom" } ,
+        "last_name": { "type": "literal" , "value": "Hiddleston" } ,
+        "full_name": { "type": "literal" , "value": "Tom Hiddleston" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character23" } ,
+        "character_name": { "type": "literal" , "value": "Loki" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films08" } ,
+        "english_title": { "type": "literal" , "value": "Thor: The Dark World" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor19" } ,
+        "first_name": { "type": "literal" , "value": "Tom" } ,
+        "last_name": { "type": "literal" , "value": "Hiddleston" } ,
+        "full_name": { "type": "literal" , "value": "Tom Hiddleston" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character23" } ,
+        "character_name": { "type": "literal" , "value": "Loki" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films17" } ,
+        "english_title": { "type": "literal" , "value": "Thor: Ragnarok" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor19" } ,
+        "first_name": { "type": "literal" , "value": "Tom" } ,
+        "last_name": { "type": "literal" , "value": "Hiddleston" } ,
+        "full_name": { "type": "literal" , "value": "Tom Hiddleston" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character23" } ,
+        "character_name": { "type": "literal" , "value": "Loki" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor17" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Hemsworth" } ,
+        "full_name": { "type": "literal" , "value": "Chris Hemsworth" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character21" } ,
+        "character_name": { "type": "literal" , "value": "Thor" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films04" } ,
+        "english_title": { "type": "literal" , "value": "Thor" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor17" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Hemsworth" } ,
+        "full_name": { "type": "literal" , "value": "Chris Hemsworth" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character21" } ,
+        "character_name": { "type": "literal" , "value": "Thor" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor17" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Hemsworth" } ,
+        "full_name": { "type": "literal" , "value": "Chris Hemsworth" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character21" } ,
+        "character_name": { "type": "literal" , "value": "Thor" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films08" } ,
+        "english_title": { "type": "literal" , "value": "Thor: The Dark World" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor17" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Hemsworth" } ,
+        "full_name": { "type": "literal" , "value": "Chris Hemsworth" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character21" } ,
+        "character_name": { "type": "literal" , "value": "Thor" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor17" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Hemsworth" } ,
+        "full_name": { "type": "literal" , "value": "Chris Hemsworth" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character21" } ,
+        "character_name": { "type": "literal" , "value": "Thor" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films17" } ,
+        "english_title": { "type": "literal" , "value": "Thor: Ragnarok" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor17" } ,
+        "first_name": { "type": "literal" , "value": "Chris" } ,
+        "last_name": { "type": "literal" , "value": "Hemsworth" } ,
+        "full_name": { "type": "literal" , "value": "Chris Hemsworth" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character21" } ,
+        "character_name": { "type": "literal" , "value": "Thor" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor16" } ,
+        "first_name": { "type": "literal" , "value": "Samuel" } ,
+        "last_name": { "type": "literal" , "value": "L. Jackson" } ,
+        "full_name": { "type": "literal" , "value": "Samuel L. Jackson" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character20" } ,
+        "character_name": { "type": "literal" , "value": "Nick Fury" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor16" } ,
+        "first_name": { "type": "literal" , "value": "Samuel" } ,
+        "last_name": { "type": "literal" , "value": "L. Jackson" } ,
+        "full_name": { "type": "literal" , "value": "Samuel L. Jackson" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character20" } ,
+        "character_name": { "type": "literal" , "value": "Nick Fury" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor16" } ,
+        "first_name": { "type": "literal" , "value": "Samuel" } ,
+        "last_name": { "type": "literal" , "value": "L. Jackson" } ,
+        "full_name": { "type": "literal" , "value": "Samuel L. Jackson" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character20" } ,
+        "character_name": { "type": "literal" , "value": "Nick Fury" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor16" } ,
+        "first_name": { "type": "literal" , "value": "Samuel" } ,
+        "last_name": { "type": "literal" , "value": "L. Jackson" } ,
+        "full_name": { "type": "literal" , "value": "Samuel L. Jackson" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character20" } ,
+        "character_name": { "type": "literal" , "value": "Nick Fury" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor15" } ,
+        "first_name": { "type": "literal" , "value": "Mickey" } ,
+        "last_name": { "type": "literal" , "value": "Rourke" } ,
+        "full_name": { "type": "literal" , "value": "Mickey Rourke" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character19" } ,
+        "character_name": { "type": "literal" , "value": "Ivan Vanko" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor14" } ,
+        "first_name": { "type": "literal" , "value": "Sam" } ,
+        "last_name": { "type": "literal" , "value": "Rockwell" } ,
+        "full_name": { "type": "literal" , "value": "Sam Rockwell" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character18" } ,
+        "character_name": { "type": "literal" , "value": "Justin Hammer" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor12" } ,
+        "first_name": { "type": "literal" , "value": "Don" } ,
+        "last_name": { "type": "literal" , "value": "Cheadle" } ,
+        "full_name": { "type": "literal" , "value": "Don Cheadle" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor12" } ,
+        "first_name": { "type": "literal" , "value": "Don" } ,
+        "last_name": { "type": "literal" , "value": "Cheadle" } ,
+        "full_name": { "type": "literal" , "value": "Don Cheadle" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor12" } ,
+        "first_name": { "type": "literal" , "value": "Don" } ,
+        "last_name": { "type": "literal" , "value": "Cheadle" } ,
+        "full_name": { "type": "literal" , "value": "Don Cheadle" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films07" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 3" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor12" } ,
+        "first_name": { "type": "literal" , "value": "Don" } ,
+        "last_name": { "type": "literal" , "value": "Cheadle" } ,
+        "full_name": { "type": "literal" , "value": "Don Cheadle" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor12" } ,
+        "first_name": { "type": "literal" , "value": "Don" } ,
+        "last_name": { "type": "literal" , "value": "Cheadle" } ,
+        "full_name": { "type": "literal" , "value": "Don Cheadle" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor12" } ,
+        "first_name": { "type": "literal" , "value": "Don" } ,
+        "last_name": { "type": "literal" , "value": "Cheadle" } ,
+        "full_name": { "type": "literal" , "value": "Don Cheadle" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor11" } ,
+        "first_name": { "type": "literal" , "value": "Ty" } ,
+        "last_name": { "type": "literal" , "value": "Burrell" } ,
+        "full_name": { "type": "literal" , "value": "Ty Burrell" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character14" } ,
+        "character_name": { "type": "literal" , "value": "Leonard Samson" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films02" } ,
+        "english_title": { "type": "literal" , "value": "The Incredible Hulk" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor10" } ,
+        "first_name": { "type": "literal" , "value": "William" } ,
+        "last_name": { "type": "literal" , "value": "Hurt" } ,
+        "full_name": { "type": "literal" , "value": "William Hurt" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character13" } ,
+        "character_name": { "type": "literal" , "value": "Thaddeus Ross" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films02" } ,
+        "english_title": { "type": "literal" , "value": "The Incredible Hulk" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor10" } ,
+        "first_name": { "type": "literal" , "value": "William" } ,
+        "last_name": { "type": "literal" , "value": "Hurt" } ,
+        "full_name": { "type": "literal" , "value": "William Hurt" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character13" } ,
+        "character_name": { "type": "literal" , "value": "Thaddeus Ross" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor09" } ,
+        "first_name": { "type": "literal" , "value": "Tim" } ,
+        "last_name": { "type": "literal" , "value": "Blake Nelson" } ,
+        "full_name": { "type": "literal" , "value": "Tim Blake Nelson" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character12" } ,
+        "character_name": { "type": "literal" , "value": "Samuel Sterns" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films02" } ,
+        "english_title": { "type": "literal" , "value": "The Incredible Hulk" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor08" } ,
+        "first_name": { "type": "literal" , "value": "Tim" } ,
+        "last_name": { "type": "literal" , "value": "Roth" } ,
+        "full_name": { "type": "literal" , "value": "Tim Roth" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character10" } ,
+        "character_name": { "type": "literal" , "value": "Emil Blonsky" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films02" } ,
+        "english_title": { "type": "literal" , "value": "The Incredible Hulk" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor06" } ,
+        "first_name": { "type": "literal" , "value": "Edward" } ,
+        "last_name": { "type": "literal" , "value": "Norton" } ,
+        "full_name": { "type": "literal" , "value": "Edward Norton" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character07" } ,
+        "character_name": { "type": "literal" , "value": "Bruce Banner" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films02" } ,
+        "english_title": { "type": "literal" , "value": "The Incredible Hulk" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor06" } ,
+        "first_name": { "type": "literal" , "value": "Edward" } ,
+        "last_name": { "type": "literal" , "value": "Norton" } ,
+        "full_name": { "type": "literal" , "value": "Edward Norton" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character07" } ,
+        "character_name": { "type": "literal" , "value": "Bruce Banner" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor06" } ,
+        "first_name": { "type": "literal" , "value": "Edward" } ,
+        "last_name": { "type": "literal" , "value": "Norton" } ,
+        "full_name": { "type": "literal" , "value": "Edward Norton" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character07" } ,
+        "character_name": { "type": "literal" , "value": "Bruce Banner" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor06" } ,
+        "first_name": { "type": "literal" , "value": "Edward" } ,
+        "last_name": { "type": "literal" , "value": "Norton" } ,
+        "full_name": { "type": "literal" , "value": "Edward Norton" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character07" } ,
+        "character_name": { "type": "literal" , "value": "Bruce Banner" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films17" } ,
+        "english_title": { "type": "literal" , "value": "Thor: Ragnarok" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor06" } ,
+        "first_name": { "type": "literal" , "value": "Edward" } ,
+        "last_name": { "type": "literal" , "value": "Norton" } ,
+        "full_name": { "type": "literal" , "value": "Edward Norton" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character07" } ,
+        "character_name": { "type": "literal" , "value": "Bruce Banner" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor04" } ,
+        "first_name": { "type": "literal" , "value": "Shaun" } ,
+        "last_name": { "type": "literal" , "value": "Toub" } ,
+        "full_name": { "type": "literal" , "value": "Shaun Toub" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character05" } ,
+        "character_name": { "type": "literal" , "value": "Yinsen" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor03" } ,
+        "first_name": { "type": "literal" , "value": "Jeff" } ,
+        "last_name": { "type": "literal" , "value": "Bridges" } ,
+        "full_name": { "type": "literal" , "value": "Jeff Bridges" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character04" } ,
+        "character_name": { "type": "literal" , "value": "Obadiah Stane" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor02" } ,
+        "first_name": { "type": "literal" , "value": "Terrence" } ,
+        "last_name": { "type": "literal" , "value": "Howard" } ,
+        "full_name": { "type": "literal" , "value": "Terrence Howard" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor02" } ,
+        "first_name": { "type": "literal" , "value": "Terrence" } ,
+        "last_name": { "type": "literal" , "value": "Howard" } ,
+        "full_name": { "type": "literal" , "value": "Terrence Howard" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor02" } ,
+        "first_name": { "type": "literal" , "value": "Terrence" } ,
+        "last_name": { "type": "literal" , "value": "Howard" } ,
+        "full_name": { "type": "literal" , "value": "Terrence Howard" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films07" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 3" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor02" } ,
+        "first_name": { "type": "literal" , "value": "Terrence" } ,
+        "last_name": { "type": "literal" , "value": "Howard" } ,
+        "full_name": { "type": "literal" , "value": "Terrence Howard" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor02" } ,
+        "first_name": { "type": "literal" , "value": "Terrence" } ,
+        "last_name": { "type": "literal" , "value": "Howard" } ,
+        "full_name": { "type": "literal" , "value": "Terrence Howard" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor02" } ,
+        "first_name": { "type": "literal" , "value": "Terrence" } ,
+        "last_name": { "type": "literal" , "value": "Howard" } ,
+        "full_name": { "type": "literal" , "value": "Terrence Howard" } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
+        "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor01" } ,
+        "first_name": { "type": "literal" , "value": "Robert" } ,
+        "last_name": { "type": "literal" , "value": "Downey Jr." } ,
+        "full_name": { "type": "literal" , "value": "Robert Downey Jr." } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character01" } ,
+        "character_name": { "type": "literal" , "value": "Tony Stark" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor01" } ,
+        "first_name": { "type": "literal" , "value": "Robert" } ,
+        "last_name": { "type": "literal" , "value": "Downey Jr." } ,
+        "full_name": { "type": "literal" , "value": "Robert Downey Jr." } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character01" } ,
+        "character_name": { "type": "literal" , "value": "Tony Stark" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor01" } ,
+        "first_name": { "type": "literal" , "value": "Robert" } ,
+        "last_name": { "type": "literal" , "value": "Downey Jr." } ,
+        "full_name": { "type": "literal" , "value": "Robert Downey Jr." } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character01" } ,
+        "character_name": { "type": "literal" , "value": "Tony Stark" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor01" } ,
+        "first_name": { "type": "literal" , "value": "Robert" } ,
+        "last_name": { "type": "literal" , "value": "Downey Jr." } ,
+        "full_name": { "type": "literal" , "value": "Robert Downey Jr." } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character01" } ,
+        "character_name": { "type": "literal" , "value": "Tony Stark" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films07" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 3" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor01" } ,
+        "first_name": { "type": "literal" , "value": "Robert" } ,
+        "last_name": { "type": "literal" , "value": "Downey Jr." } ,
+        "full_name": { "type": "literal" , "value": "Robert Downey Jr." } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character01" } ,
+        "character_name": { "type": "literal" , "value": "Tony Stark" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor01" } ,
+        "first_name": { "type": "literal" , "value": "Robert" } ,
+        "last_name": { "type": "literal" , "value": "Downey Jr." } ,
+        "full_name": { "type": "literal" , "value": "Robert Downey Jr." } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character01" } ,
+        "character_name": { "type": "literal" , "value": "Tony Stark" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor01" } ,
+        "first_name": { "type": "literal" , "value": "Robert" } ,
+        "last_name": { "type": "literal" , "value": "Downey Jr." } ,
+        "full_name": { "type": "literal" , "value": "Robert Downey Jr." } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character01" } ,
+        "character_name": { "type": "literal" , "value": "Tony Stark" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films16" } ,
+        "english_title": { "type": "literal" , "value": "Spider-Man: Homecoming" }
+      } ,
+      {
+        "actor_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Actor01" } ,
+        "first_name": { "type": "literal" , "value": "Robert" } ,
+        "last_name": { "type": "literal" , "value": "Downey Jr." } ,
+        "full_name": { "type": "literal" , "value": "Robert Downey Jr." } ,
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character01" } ,
+        "character_name": { "type": "literal" , "value": "Tony Stark" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+      }
+    ]
+  }
+}

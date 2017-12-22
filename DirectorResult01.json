@@ -1,6 +1,6 @@
 {
   "head": {
-    "vars": [ "director_id" , "first_name" , "last_name" , "full_name" , "films_id" , "english_title" ]
+    "vars": [ "director_id" , "first_name" , "last_name" , "full_name" , "films_id" , "english_title" , "thai_title" ]
   } ,
   "results": {
     "bindings": [
@@ -10,7 +10,8 @@
         "last_name": { "type": "literal" , "value": "Fleck" } ,
         "full_name": { "type": "literal" , "value": "Ryan Fleck" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films21" } ,
-        "english_title": { "type": "literal" , "value": "Captain Marvel" }
+        "english_title": { "type": "literal" , "value": "Captain Marvel" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director16" } ,
@@ -18,7 +19,8 @@
         "last_name": { "type": "literal" , "value": "Boden" } ,
         "full_name": { "type": "literal" , "value": "Anna Boden" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films21" } ,
-        "english_title": { "type": "literal" , "value": "Captain Marvel" }
+        "english_title": { "type": "literal" , "value": "Captain Marvel" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director15" } ,
@@ -26,7 +28,8 @@
         "last_name": { "type": "literal" , "value": "Coogler" } ,
         "full_name": { "type": "literal" , "value": "Ryan Coogler" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films18" } ,
-        "english_title": { "type": "literal" , "value": "Black Panther" }
+        "english_title": { "type": "literal" , "value": "Black Panther" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director14" } ,
@@ -34,7 +37,8 @@
         "last_name": { "type": "literal" , "value": "Waititi" } ,
         "full_name": { "type": "literal" , "value": "Taika Waititi" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films17" } ,
-        "english_title": { "type": "literal" , "value": "Thor: Ragnarok" }
+        "english_title": { "type": "literal" , "value": "Thor: Ragnarok" } ,
+        "thai_title": { "type": "literal" , "value": "ศึกอวสานเทพเจ้า" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director13" } ,
@@ -42,7 +46,8 @@
         "last_name": { "type": "literal" , "value": "Watts" } ,
         "full_name": { "type": "literal" , "value": "Jon Watts" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films16" } ,
-        "english_title": { "type": "literal" , "value": "Spider-Man: Homecoming" }
+        "english_title": { "type": "literal" , "value": "Spider-Man: Homecoming" } ,
+        "thai_title": { "type": "literal" , "value": "สไปเดอร์-แมน: โฮมคัมมิง" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director12" } ,
@@ -50,7 +55,8 @@
         "last_name": { "type": "literal" , "value": "Derrickson" } ,
         "full_name": { "type": "literal" , "value": "Scott Derrickson" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films14" } ,
-        "english_title": { "type": "literal" , "value": "Doctor Strange" }
+        "english_title": { "type": "literal" , "value": "Doctor Strange" } ,
+        "thai_title": { "type": "literal" , "value": "จอมเวทย์มหากาฬ" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director11" } ,
@@ -58,7 +64,8 @@
         "last_name": { "type": "literal" , "value": "Reed" } ,
         "full_name": { "type": "literal" , "value": "Peyton Reed" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films12" } ,
-        "english_title": { "type": "literal" , "value": "Ant-Man" }
+        "english_title": { "type": "literal" , "value": "Ant-Man" } ,
+        "thai_title": { "type": "literal" , "value": "มนุษย์มดมหากาฬ" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director11" } ,
@@ -66,7 +73,8 @@
         "last_name": { "type": "literal" , "value": "Reed" } ,
         "full_name": { "type": "literal" , "value": "Peyton Reed" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films20" } ,
-        "english_title": { "type": "literal" , "value": "Ant-Man and the Wasp" }
+        "english_title": { "type": "literal" , "value": "Ant-Man and the Wasp" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director10" } ,
@@ -74,7 +82,8 @@
         "last_name": { "type": "literal" , "value": "Gunn" } ,
         "full_name": { "type": "literal" , "value": "James Gunn" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films10" } ,
-        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy" }
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy" } ,
+        "thai_title": { "type": "literal" , "value": "รวมพันธุ์นักสู้พิทักษ์จักรวาล" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director10" } ,
@@ -82,7 +91,8 @@
         "last_name": { "type": "literal" , "value": "Gunn" } ,
         "full_name": { "type": "literal" , "value": "James Gunn" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films15" } ,
-        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy Vol. 2" }
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy Vol. 2" } ,
+        "thai_title": { "type": "literal" , "value": "รวมพันธุ์นักสู้พิทักษ์จักรวาล 2" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director09" } ,
@@ -90,7 +100,8 @@
         "last_name": { "type": "literal" , "value": "Russo" } ,
         "full_name": { "type": "literal" , "value": "Joe Russo" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
-        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director09" } ,
@@ -98,7 +109,8 @@
         "last_name": { "type": "literal" , "value": "Russo" } ,
         "full_name": { "type": "literal" , "value": "Joe Russo" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
-        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director09" } ,
@@ -106,7 +118,8 @@
         "last_name": { "type": "literal" , "value": "Russo" } ,
         "full_name": { "type": "literal" , "value": "Joe Russo" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
-        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" }
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: มัจจุราชอหังการ" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director08" } ,
@@ -114,7 +127,8 @@
         "last_name": { "type": "literal" , "value": "Russo" } ,
         "full_name": { "type": "literal" , "value": "Anthony Russo" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
-        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" }
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director08" } ,
@@ -122,7 +136,8 @@
         "last_name": { "type": "literal" , "value": "Russo" } ,
         "full_name": { "type": "literal" , "value": "Anthony Russo" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
-        "english_title": { "type": "literal" , "value": "Captain America: Civil War" }
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director08" } ,
@@ -130,7 +145,8 @@
         "last_name": { "type": "literal" , "value": "Russo" } ,
         "full_name": { "type": "literal" , "value": "Anthony Russo" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
-        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" }
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: มัจจุราชอหังการ" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director07" } ,
@@ -138,7 +154,8 @@
         "last_name": { "type": "literal" , "value": "Taylor" } ,
         "full_name": { "type": "literal" , "value": "Alan Taylor" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films08" } ,
-        "english_title": { "type": "literal" , "value": "Thor: The Dark World" }
+        "english_title": { "type": "literal" , "value": "Thor: The Dark World" } ,
+        "thai_title": { "type": "literal" , "value": "ธอร์ เทพเจ้าสายฟ้าโลกาทมิฬ" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director06" } ,
@@ -146,7 +163,8 @@
         "last_name": { "type": "literal" , "value": "Black" } ,
         "full_name": { "type": "literal" , "value": "Shane Black" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films07" } ,
-        "english_title": { "type": "literal" , "value": "Iron Man 3" }
+        "english_title": { "type": "literal" , "value": "Iron Man 3" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 3" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director05" } ,
@@ -154,7 +172,8 @@
         "last_name": { "type": "literal" , "value": "Whedon" } ,
         "full_name": { "type": "literal" , "value": "Joss Whedon" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
-        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" }
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
+        "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director05" } ,
@@ -162,7 +181,8 @@
         "last_name": { "type": "literal" , "value": "Whedon" } ,
         "full_name": { "type": "literal" , "value": "Joss Whedon" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
-        "english_title": { "type": "literal" , "value": "The Avengers" }
+        "english_title": { "type": "literal" , "value": "The Avengers" } ,
+        "thai_title": { "type": "literal" , "value": "ดิ อเวนเจอร์ส" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director04" } ,
@@ -170,7 +190,8 @@
         "last_name": { "type": "literal" , "value": "Johnston" } ,
         "full_name": { "type": "literal" , "value": "Joe Johnston" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films05" } ,
-        "english_title": { "type": "literal" , "value": "Captain America: The First Avenger" }
+        "english_title": { "type": "literal" , "value": "Captain America: The First Avenger" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: อเวนเจอร์ที่ 1" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director03" } ,
@@ -178,7 +199,8 @@
         "last_name": { "type": "literal" , "value": "Branagh" } ,
         "full_name": { "type": "literal" , "value": "Kenneth Branagh" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films04" } ,
-        "english_title": { "type": "literal" , "value": "Thor" }
+        "english_title": { "type": "literal" , "value": "Thor" } ,
+        "thai_title": { "type": "literal" , "value": "ธอร์ เทพเจ้าสายฟ้า" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director02" } ,
@@ -186,7 +208,8 @@
         "last_name": { "type": "literal" , "value": "Leterrier" } ,
         "full_name": { "type": "literal" , "value": "Louis Leterrier" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films02" } ,
-        "english_title": { "type": "literal" , "value": "The Incredible Hulk" }
+        "english_title": { "type": "literal" , "value": "The Incredible Hulk" } ,
+        "thai_title": { "type": "literal" , "value": "มนุษย์ตัวเขียวจอมพลัง" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director01" } ,
@@ -194,7 +217,8 @@
         "last_name": { "type": "literal" , "value": "Favreau" } ,
         "full_name": { "type": "literal" , "value": "Jon Favreau" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
-        "english_title": { "type": "literal" , "value": "Iron Man" }
+        "english_title": { "type": "literal" , "value": "Iron Man" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก" }
       } ,
       {
         "director_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Director01" } ,
@@ -202,7 +226,8 @@
         "last_name": { "type": "literal" , "value": "Favreau" } ,
         "full_name": { "type": "literal" , "value": "Jon Favreau" } ,
         "films_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
-        "english_title": { "type": "literal" , "value": "Iron Man 2" }
+        "english_title": { "type": "literal" , "value": "Iron Man 2" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 2" }
       }
     ]
   }

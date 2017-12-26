@@ -54,11 +54,39 @@
         "thai_title": { "type": "literal" , "value": "สไปเดอร์-แมน: โฮมคัมมิง" }
       } ,
       {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character93" } ,
+        "character_name": { "type": "literal" , "value": "Vulture" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films16" } ,
+        "english_title": { "type": "literal" , "value": "Spider-Man: Homecoming" } ,
+        "thai_title": { "type": "literal" , "value": "สไปเดอร์-แมน: โฮมคัมมิง" }
+      } ,
+      {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character92" } ,
         "character_name": { "type": "literal" , "value": "Adrian Toomes" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films16" } ,
         "english_title": { "type": "literal" , "value": "Spider-Man: Homecoming" } ,
         "thai_title": { "type": "literal" , "value": "สไปเดอร์-แมน: โฮมคัมมิง" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character91" } ,
+        "character_name": { "type": "literal" , "value": "Spider-Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character91" } ,
+        "character_name": { "type": "literal" , "value": "Spider-Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films16" } ,
+        "english_title": { "type": "literal" , "value": "Spider-Man: Homecoming" } ,
+        "thai_title": { "type": "literal" , "value": "สไปเดอร์-แมน: โฮมคัมมิง" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character91" } ,
+        "character_name": { "type": "literal" , "value": "Spider-Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character90" } ,
@@ -180,6 +208,20 @@
         "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
       } ,
       {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character78" } ,
+        "character_name": { "type": "literal" , "value": "Crossbones" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: มัจจุราชอหังการ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character78" } ,
+        "character_name": { "type": "literal" , "value": "Crossbones" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character77" } ,
         "character_name": { "type": "literal" , "value": "Hank Pym" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films12" } ,
@@ -206,6 +248,13 @@
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films20" } ,
         "english_title": { "type": "literal" , "value": "Ant-Man and the Wasp" } ,
         "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character75" } ,
+        "character_name": { "type": "literal" , "value": "Yellowjacket" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films12" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man" } ,
+        "thai_title": { "type": "literal" , "value": "มนุษย์มดมหากาฬ" }
       } ,
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character74" } ,
@@ -224,6 +273,34 @@
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character73" } ,
         "character_name": { "type": "literal" , "value": "Hope van Dyne" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films20" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man and the Wasp" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character72" } ,
+        "character_name": { "type": "literal" , "value": "Ant-Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films12" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man" } ,
+        "thai_title": { "type": "literal" , "value": "มนุษย์มดมหากาฬ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character72" } ,
+        "character_name": { "type": "literal" , "value": "Ant-Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character72" } ,
+        "character_name": { "type": "literal" , "value": "Ant-Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character72" } ,
+        "character_name": { "type": "literal" , "value": "Ant-Man" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films20" } ,
         "english_title": { "type": "literal" , "value": "Ant-Man and the Wasp" } ,
         "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
@@ -266,6 +343,27 @@
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character69" } ,
         "character_name": { "type": "literal" , "value": "Vision" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character69" } ,
+        "character_name": { "type": "literal" , "value": "Vision" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 2" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character69" } ,
+        "character_name": { "type": "literal" , "value": "Vision" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films07" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 3" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 3" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character69" } ,
+        "character_name": { "type": "literal" , "value": "Vision" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
         "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
         "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
@@ -280,6 +378,27 @@
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character69" } ,
         "character_name": { "type": "literal" , "value": "Vision" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character68" } ,
+        "character_name": { "type": "literal" , "value": "Scarlet Witch" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
+        "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character68" } ,
+        "character_name": { "type": "literal" , "value": "Scarlet Witch" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character68" } ,
+        "character_name": { "type": "literal" , "value": "Scarlet Witch" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
         "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
         "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
@@ -304,6 +423,13 @@
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
         "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
         "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character66" } ,
+        "character_name": { "type": "literal" , "value": "Quicksilver" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
+        "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
       } ,
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character65" } ,
@@ -311,6 +437,55 @@
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
         "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
         "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character64" } ,
+        "character_name": { "type": "literal" , "value": "War Machine" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character64" } ,
+        "character_name": { "type": "literal" , "value": "War Machine" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 2" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character64" } ,
+        "character_name": { "type": "literal" , "value": "War Machine" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films07" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 3" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 3" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character64" } ,
+        "character_name": { "type": "literal" , "value": "War Machine" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
+        "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character64" } ,
+        "character_name": { "type": "literal" , "value": "War Machine" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character64" } ,
+        "character_name": { "type": "literal" , "value": "War Machine" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character63" } ,
+        "character_name": { "type": "literal" , "value": "The Collector" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films10" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy" } ,
+        "thai_title": { "type": "literal" , "value": "รวมพันธุ์นักสู้พิทักษ์จักรวาล" }
       } ,
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character62" } ,
@@ -439,6 +614,27 @@
         "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character54" } ,
+        "character_name": { "type": "literal" , "value": "Star-Lord" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films10" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy" } ,
+        "thai_title": { "type": "literal" , "value": "รวมพันธุ์นักสู้พิทักษ์จักรวาล" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character54" } ,
+        "character_name": { "type": "literal" , "value": "Star-Lord" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films15" } ,
+        "english_title": { "type": "literal" , "value": "Guardians of the Galaxy Vol. 2" } ,
+        "thai_title": { "type": "literal" , "value": "รวมพันธุ์นักสู้พิทักษ์จักรวาล 2" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character54" } ,
+        "character_name": { "type": "literal" , "value": "Star-Lord" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character53" } ,
         "character_name": { "type": "literal" , "value": "Peter Quill" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films10" } ,
@@ -467,6 +663,20 @@
         "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: มัจจุราชอหังการ" }
       } ,
       {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character51" } ,
+        "character_name": { "type": "literal" , "value": "Agent 13" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: มัจจุราชอหังการ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character51" } ,
+        "character_name": { "type": "literal" , "value": "Agent 13" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character50" } ,
         "character_name": { "type": "literal" , "value": "Sharon Carter" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
@@ -493,6 +703,41 @@
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
         "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
         "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character48" } ,
+        "character_name": { "type": "literal" , "value": "Falcon" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: มัจจุราชอหังการ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character48" } ,
+        "character_name": { "type": "literal" , "value": "Falcon" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
+        "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character48" } ,
+        "character_name": { "type": "literal" , "value": "Falcon" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films12" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man" } ,
+        "thai_title": { "type": "literal" , "value": "มนุษย์มดมหากาฬ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character48" } ,
+        "character_name": { "type": "literal" , "value": "Falcon" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character48" } ,
+        "character_name": { "type": "literal" , "value": "Falcon" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character47" } ,
@@ -572,6 +817,48 @@
         "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 3" }
       } ,
       {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character42" } ,
+        "character_name": { "type": "literal" , "value": "Iron Patriot" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character42" } ,
+        "character_name": { "type": "literal" , "value": "Iron Patriot" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 2" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character42" } ,
+        "character_name": { "type": "literal" , "value": "Iron Patriot" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films07" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 3" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 3" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character42" } ,
+        "character_name": { "type": "literal" , "value": "Iron Patriot" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
+        "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character42" } ,
+        "character_name": { "type": "literal" , "value": "Iron Patriot" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character42" } ,
+        "character_name": { "type": "literal" , "value": "Iron Patriot" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character41" } ,
         "character_name": { "type": "literal" , "value": "Maria Hill" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
@@ -607,6 +894,34 @@
         "thai_title": { "type": "literal" , "value": "หน่วยปฏิบัติการสายลับชีลด์" }
       } ,
       {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character39" } ,
+        "character_name": { "type": "literal" , "value": "Hawkeye" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" } ,
+        "thai_title": { "type": "literal" , "value": "ดิ อเวนเจอร์ส" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character39" } ,
+        "character_name": { "type": "literal" , "value": "Hawkeye" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
+        "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character39" } ,
+        "character_name": { "type": "literal" , "value": "Hawkeye" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character39" } ,
+        "character_name": { "type": "literal" , "value": "Hawkeye" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character38" } ,
         "character_name": { "type": "literal" , "value": "Clint Barton" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
@@ -640,6 +955,34 @@
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films05" } ,
         "english_title": { "type": "literal" , "value": "Captain America: The First Avenger" } ,
         "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: อเวนเจอร์ที่ 1" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character36" } ,
+        "character_name": { "type": "literal" , "value": "Winter Soldier" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films05" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The First Avenger" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: อเวนเจอร์ที่ 1" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character36" } ,
+        "character_name": { "type": "literal" , "value": "Winter Soldier" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: มัจจุราชอหังการ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character36" } ,
+        "character_name": { "type": "literal" , "value": "Winter Soldier" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character36" } ,
+        "character_name": { "type": "literal" , "value": "Winter Soldier" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character35" } ,
@@ -698,11 +1041,60 @@
         "thai_title": { "type": "literal" , "value": "เอเจนต์คาร์เตอร์ สายลับสาวกู้โลก" }
       } ,
       {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character33" } ,
+        "character_name": { "type": "literal" , "value": "Red Skull" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films05" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The First Avenger" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: อเวนเจอร์ที่ 1" }
+      } ,
+      {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character32" } ,
         "character_name": { "type": "literal" , "value": "Johann Schmidt" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films05" } ,
         "english_title": { "type": "literal" , "value": "Captain America: The First Avenger" } ,
         "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: อเวนเจอร์ที่ 1" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character31" } ,
+        "character_name": { "type": "literal" , "value": "Captain America" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films05" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The First Avenger" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: อเวนเจอร์ที่ 1" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character31" } ,
+        "character_name": { "type": "literal" , "value": "Captain America" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" } ,
+        "thai_title": { "type": "literal" , "value": "ดิ อเวนเจอร์ส" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character31" } ,
+        "character_name": { "type": "literal" , "value": "Captain America" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: มัจจุราชอหังการ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character31" } ,
+        "character_name": { "type": "literal" , "value": "Captain America" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
+        "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character31" } ,
+        "character_name": { "type": "literal" , "value": "Captain America" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character31" } ,
+        "character_name": { "type": "literal" , "value": "Captain America" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character30" } ,
@@ -992,6 +1384,48 @@
         "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 2" }
       } ,
       {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character17" } ,
+        "character_name": { "type": "literal" , "value": "Black Widow" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" } ,
+        "thai_title": { "type": "literal" , "value": "ดิ อเวนเจอร์ส" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character17" } ,
+        "character_name": { "type": "literal" , "value": "Black Widow" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films09" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: The Winter Soldier" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: มัจจุราชอหังการ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character17" } ,
+        "character_name": { "type": "literal" , "value": "Black Widow" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
+        "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character17" } ,
+        "character_name": { "type": "literal" , "value": "Black Widow" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character17" } ,
+        "character_name": { "type": "literal" , "value": "Black Widow" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character16" } ,
+        "character_name": { "type": "literal" , "value": "Natasha Romanoff" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 2" }
+      } ,
+      {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character16" } ,
         "character_name": { "type": "literal" , "value": "Natasha Romanoff" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
@@ -1125,6 +1559,13 @@
         "thai_title": { "type": "literal" , "value": "หน่วยปฏิบัติการสายลับชีลด์" }
       } ,
       {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character11" } ,
+        "character_name": { "type": "literal" , "value": "Abomination" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films02" } ,
+        "english_title": { "type": "literal" , "value": "The Incredible Hulk" } ,
+        "thai_title": { "type": "literal" , "value": "มนุษย์ตัวเขียวจอมพลัง" }
+      } ,
+      {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character109" } ,
         "character_name": { "type": "literal" , "value": "Grant Ward" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series01" } ,
@@ -1137,6 +1578,20 @@
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Series01" } ,
         "english_title": { "type": "literal" , "value": "Agents of S.H.I.E.L.D." } ,
         "thai_title": { "type": "literal" , "value": "หน่วยปฏิบัติการสายลับชีลด์" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character107" } ,
+        "character_name": { "type": "literal" , "value": "Captain Marvel" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character107" } ,
+        "character_name": { "type": "literal" , "value": "Captain Marvel" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films21" } ,
+        "english_title": { "type": "literal" , "value": "Captain Marvel" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character106" } ,
@@ -1155,8 +1610,22 @@
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character105" } ,
         "character_name": { "type": "literal" , "value": "Wasp" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films12" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man" } ,
+        "thai_title": { "type": "literal" , "value": "มนุษย์มดมหากาฬ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character105" } ,
+        "character_name": { "type": "literal" , "value": "Wasp" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
         "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character105" } ,
+        "character_name": { "type": "literal" , "value": "Wasp" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films20" } ,
+        "english_title": { "type": "literal" , "value": "Ant-Man and the Wasp" } ,
         "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
@@ -1178,6 +1647,27 @@
         "character_name": { "type": "literal" , "value": "Erik Killmonger" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films18" } ,
         "english_title": { "type": "literal" , "value": "Black Panther" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character101" } ,
+        "character_name": { "type": "literal" , "value": "Black Panther" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character101" } ,
+        "character_name": { "type": "literal" , "value": "Black Panther" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films18" } ,
+        "english_title": { "type": "literal" , "value": "Black Panther" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character101" } ,
+        "character_name": { "type": "literal" , "value": "Black Panther" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
         "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
@@ -1214,6 +1704,41 @@
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films02" } ,
         "english_title": { "type": "literal" , "value": "The Incredible Hulk" } ,
         "thai_title": { "type": "literal" , "value": "มนุษย์ตัวเขียวจอมพลัง" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character08" } ,
+        "character_name": { "type": "literal" , "value": "Hulk" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films02" } ,
+        "english_title": { "type": "literal" , "value": "The Incredible Hulk" } ,
+        "thai_title": { "type": "literal" , "value": "มนุษย์ตัวเขียวจอมพลัง" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character08" } ,
+        "character_name": { "type": "literal" , "value": "Hulk" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" } ,
+        "thai_title": { "type": "literal" , "value": "ดิ อเวนเจอร์ส" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character08" } ,
+        "character_name": { "type": "literal" , "value": "Hulk" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
+        "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character08" } ,
+        "character_name": { "type": "literal" , "value": "Hulk" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films17" } ,
+        "english_title": { "type": "literal" , "value": "Thor: Ragnarok" } ,
+        "thai_title": { "type": "literal" , "value": "ศึกอวสานเทพเจ้า" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character08" } ,
+        "character_name": { "type": "literal" , "value": "Hulk" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
       } ,
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character07" } ,
@@ -1316,6 +1841,62 @@
       {
         "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character03" } ,
         "character_name": { "type": "literal" , "value": "James Rhodes" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
+        "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character02" } ,
+        "character_name": { "type": "literal" , "value": "Iron Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films01" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character02" } ,
+        "character_name": { "type": "literal" , "value": "Iron Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films03" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 2" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 2" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character02" } ,
+        "character_name": { "type": "literal" , "value": "Iron Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films06" } ,
+        "english_title": { "type": "literal" , "value": "The Avengers" } ,
+        "thai_title": { "type": "literal" , "value": "ดิ อเวนเจอร์ส" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character02" } ,
+        "character_name": { "type": "literal" , "value": "Iron Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films07" } ,
+        "english_title": { "type": "literal" , "value": "Iron Man 3" } ,
+        "thai_title": { "type": "literal" , "value": "มหาประลัยคนเกราะเหล็ก 3" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character02" } ,
+        "character_name": { "type": "literal" , "value": "Iron Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films11" } ,
+        "english_title": { "type": "literal" , "value": "Avengers: Age of Ultron" } ,
+        "thai_title": { "type": "literal" , "value": "อเวนเจอร์ส: มหาศึกอัลตรอนถล่มโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character02" } ,
+        "character_name": { "type": "literal" , "value": "Iron Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films13" } ,
+        "english_title": { "type": "literal" , "value": "Captain America: Civil War" } ,
+        "thai_title": { "type": "literal" , "value": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character02" } ,
+        "character_name": { "type": "literal" , "value": "Iron Man" } ,
+        "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films16" } ,
+        "english_title": { "type": "literal" , "value": "Spider-Man: Homecoming" } ,
+        "thai_title": { "type": "literal" , "value": "สไปเดอร์-แมน: โฮมคัมมิง" }
+      } ,
+      {
+        "character_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Character02" } ,
+        "character_name": { "type": "literal" , "value": "Iron Man" } ,
         "cinema_id": { "type": "uri" , "value": "http://www.semanticweb.org/nongmai/ontologies/2560/10/MarvelCinematic.owl#Films19" } ,
         "english_title": { "type": "literal" , "value": "Avengers: Infinity War" } ,
         "thai_title": { "type": "literal" , "value": "ยังไม่ประกาศ" }
